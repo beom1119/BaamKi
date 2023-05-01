@@ -461,4 +461,4 @@ UI/UX 개선
 - Jquery를 이용한, 이벤트 추가
 - 결제수단 자동 세팅, 현금 영수증 분기 처리 등 가맹점 요구 UI 분기처리
 
-alipayplus,IOpenAPi, SSG demo
+alipayplus,IOpenAPi, SSG OpenAPI demo 
